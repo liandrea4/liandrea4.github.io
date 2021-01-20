@@ -8,8 +8,8 @@
 
 ## Crochet projects
 
-- [(Jan 2020 - Mar 2020) Sample crochet project](chrochet/sample.md)
+- [(Jan 2020 - Mar 2020) Sample crochet project](crochet/sample.md)
 
 ## Widdling projects
 
-- [(Date) Sample widdling project](widdling/sample.md)
+- [(Feb 2019 - Apr 2019) Sample widdling project](widdling/sample.md)
