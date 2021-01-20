@@ -1,8 +1,6 @@
-{%  %}
-
 ## About
 
-- [About the knitter](about/about.md)
+- [About the knitter](about.md)
 
 ## Knitting projects
 
