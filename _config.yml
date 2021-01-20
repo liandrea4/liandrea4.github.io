@@ -8,3 +8,6 @@ relative_links:
 title: Andrea's Creations
 description: I the coolest
 favicon: favicon.ico
+
+github:
+  is_project_page: false
