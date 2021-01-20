@@ -1,6 +1,4 @@
-<head>
-  <title>Andrea's Creations | I the coolest</title>
-</head>
+{% includes  %}
 
 ## About
 
