@@ -1,3 +1,7 @@
+<head>
+  <title>Andrea's Creations | I the coolest</title>
+</head>
+
 ## About
 
 - [About the knitter](about.md)
