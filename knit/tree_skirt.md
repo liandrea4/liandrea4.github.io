@@ -36,17 +36,17 @@ Steeking is usually only recommended for wool fiber so that the edge once cut wi
     <td> </td>
   </tr>
   <tr>
-    <td><span style="color:red">__p__</span></td>
-    <td><span style="color:red">__k__</span></td>
-    <td><span style="color:red">__k__</span></td>
-    <td><span style="color:white">__k__</span></td>
-    <td><span style="color:red">__k__</span></td>
-    <td><span style="color:white">__k__</span></td>
-    <td><span style="color:red">__k__</span></td>
-    <td><span style="color:white">__k__</span></td>
-    <td><span style="color:red">__k__</span></td>
-    <td><span style="color:red">__k__</span></td>
-    <td><span style="color:red">__p__</span></td>
+    <td><span style="color:red; font-weight: bold;">p</span></td>
+    <td><span style="color:red; font-weight: bold;">k</span></td>
+    <td><span style="color:red; font-weight: bold;">k</span></td>
+    <td><span style="color:white; font-weight: bold;">k</span></td>
+    <td><span style="color:red; font-weight: bold;">k</span></td>
+    <td><span style="color:white; font-weight: bold;">k</span></td>
+    <td><span style="color:red; font-weight: bold;">k</span></td>
+    <td><span style="color:white; font-weight: bold;">k</span></td>
+    <td><span style="color:red; font-weight: bold;">k</span></td>
+    <td><span style="color:red; font-weight: bold;">k</span></td>
+    <td><span style="color:red; font-weight: bold;">p</span></td>
   </tr>
 </table>       
 
