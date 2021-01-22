@@ -7,8 +7,14 @@
 
 ## Knit projects
 
-- <span style="float:left;"><a href="knit/tree_skirt.html">Christmas tree skirt</a></span><span style="float:right;">Jan 2021 - ongoing<br></span>
-- <span style="float:left;"><a href="knit/owlie_socks.html">Owlie socks</a></span><span style="float:right">Dec 2020 - Jan 2021<br></span>
+<ul style="list-style: none; padding: 0; margin: 0;">
+  <li>
+    <span style="float:left; overflow: hidden;"><a href="knit/tree_skirt.html">Christmas tree skirt</a></span><span style="float:right;">Jan 2021 - ongoing</span>
+  </li>
+  <li>
+    <span style="float:left; overflow: hidden;"><a href="knit/owlie_socks.html">Owlie socks</a></span><span style="float:right">Dec 2020 - Jan 2021</span>
+  </li>
+</ul>
 
 ## Crochet projects
 
