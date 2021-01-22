@@ -7,6 +7,15 @@
 
 ## Knit projects
 
+<p style="text-align:left;">
+    This text is left aligned
+    <span style="float:right;">
+        This text is right aligned
+    </span>
+</p>
+
+<span style="float:right">Right aligned</span><span style="float:left">Left aligned</span>
+
 - [(Jan 2021 - ongoing) Christmas tree skirt](knit/tree_skirt.md)
 - [(Dec 2020 - Jan 2021) Owlie socks](knit/owlie_socks.md)
 - [(Nov 2020 - Dec 2020) Regina Marie shawl](knit/regina_marie_shawl.md)
