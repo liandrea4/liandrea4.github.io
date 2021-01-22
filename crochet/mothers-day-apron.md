@@ -4,7 +4,7 @@
 
 (Apr 2019 - May 2019) Bee/chicken themed cooking apron with pockets.
 
-![](media/mothers-day-apron.jpg)
+<img src="media/mothers-day-apron.jpg" style="max-width: 100%" />
 
 #### Yarn
 
