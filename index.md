@@ -9,7 +9,7 @@
 
 <ul>
     <li>
-        <span style="float:left;"> <a href="knit/tree_skirt.md">Christmas tree skirt</a> </span>
+        <span style="float:left;"> <a href="knit/tree_skirt.html">Christmas tree skirt</a> </span>
         <span style="float:right;">Jan 2021 - ongoing</span> <br />
     </li>
     <li>
