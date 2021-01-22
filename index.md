@@ -10,8 +10,9 @@
 
 ## Crochet projects
 
-- [(Jan 2020 - Mar 2020) Sample crochet project](crochet/sample.md)
+- [(Apr 2019 - May 2019) Mother's Day apron](crochet/mothers-day-apron.md)
 
 ## Whittle projects
 
 - [(Feb 2019 - Apr 2019) Sample whittling project](whittle/sample.md)
+
