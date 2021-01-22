@@ -12,7 +12,8 @@
     <span style="float:left;">Christmas tree skirt</span><span style="float:right;">Jan 2021 - ongoing<br></span>
   </li>
   <li>
-    <span style="float:left;">Owlie socks<a href="knit/owlie_socks.html">Owlie socks</a></span><span style="float:right">Dec 2020 - Jan 2021<br></span>
+    <span style="float:left;"><a href="www.google.com">Owlie socks</a></span>
+    <span style="float:right">Dec 2020 - Jan 2021<br></span>
   </li>
   <li>
     <span style="float:left;"><a href="knit/owlie_socks.html">Owlie socks</a></span><span style="float:right">Dec 2020 - Jan 2021<br></span>
