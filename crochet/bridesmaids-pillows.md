@@ -4,7 +4,7 @@
 
 (Jul 2019 - Sep 2019) Crocheted pillows for my bridemaids.
 
-![](media/bridesmaids-pillows.jpg)
+<img src="media/bridesmaids-pillows.jpg" style="max-width: 100%" />
 
 #### Yarn
 
