@@ -7,7 +7,7 @@
 
 ## Knit projects
 
-<ul style="padding: 0;">
+<ul>
   <li>
     <span style="float:left;">Christmas tree skirt</span><span style="float:right;">Jan 2021 - ongoing<br></span>
   </li>
