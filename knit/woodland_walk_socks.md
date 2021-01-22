@@ -2,7 +2,7 @@
 
 [*Back to home page*](..)
 
-(Q3 2020) My first sock pattern! 
+(Oct 2020) My first sock pattern! 
 
 ## Details
 - Yarn: Twinkle yarn, 100% acrylic
