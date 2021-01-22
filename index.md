@@ -10,16 +10,23 @@
 <span style="float:left"> <a href="knit/tree_skirt.md">Christmas tree skirt</a> 
 </span> <span style="float:right">Jan 2021 - ongoing</span> 
 
-<span style="float:left"> <a href="knit/tree_skirt.md">Christmas tree skirt</a> 
-</span> <span style="float:right">Jan 2021 - ongoing</span> 
+<span style="float:left"> <a href="knit/owlie_socks.md">Owlie socks</a> 
+</span> <span style="float:right">Dec 2020 - Jan 2021</span> 
 
+<span style="float:left"> <a href="knit/regina_marie_shawl.md">Regina Marie shawl</a> 
+</span> <span style="float:right">Nov 2020 - Dec 2020</span> 
 
-- [(Dec 2020 - Jan 2021) Owlie socks](knit/owlie_socks.md)
-- [(Nov 2020 - Dec 2020) Regina Marie shawl](knit/regina_marie_shawl.md)
-- [(Oct 2020) Mercury socks](knit/mercury_socks.md)
-- [(Oct 2020) Woodland walk socks](knit/woodland_walk_socks.md)
-- [(Jul 2020 - Sep 2020) Christmas stockings](knit/christmas_stockings.md)
-- [(Jul 2020) Copilot cowl](crochet/copilot_cowl.md)
+<span style="float:left"> <a href="knit/mercury_socks.md">Mercury socks</a> 
+</span> <span style="float:right">Oct 2020</span> 
+
+<span style="float:left"> <a href="knit/woodland_walk_socks.md">Woodland walk socks</a> 
+</span> <span style="float:right">Oct 2020</span> 
+
+<span style="float:left"> <a href="knit/christmas_stockings.md">Christmas stockings</a> 
+</span> <span style="float:right">Jul 2020 - Sep 2020</span> 
+
+<span style="float:left"> <a href="knit/copilot_cowl.md">Copilot cowl</a> 
+</span> <span style="float:right">Jul 2020</span> 
 
 ## Crochet projects
 
