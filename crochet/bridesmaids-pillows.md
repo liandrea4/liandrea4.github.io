@@ -18,5 +18,5 @@ Red Heart Super Saver - Aran Twine.
 
 [Other 1](https://www.stitchfiddle.com/en/c/siln0i-70qe6e)
 
-[Other 2][https://www.stitchfiddle.com/en/c/sinxx1-2ecpuv]
+[Other 2](https://www.stitchfiddle.com/en/c/sinxx1-2ecpuv)
 
