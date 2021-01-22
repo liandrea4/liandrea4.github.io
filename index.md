@@ -7,6 +7,7 @@
 
 ## Knit projects
 
+- [(Jan 2021 - ongoing) Christmas tree skirt](knit/tree_skirt.md)
 - [(Jul 2020 - Sep 2020) Christmas stockings](knit/christmas-stockings.md)
 
 ## Crochet projects
