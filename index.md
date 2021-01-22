@@ -17,16 +17,16 @@
 
 ## Crochet projects
 
-- [(Sept 2020 - Oct 2020) M pillow](crochet/m_pillow.md)
-- [(Aug 2020) Bat amigurumi](crochet/bat.md)
-- [(Mar 2020 - Apr 2020) Annie's blanket](crochet/annie_blanket.md)
-- [(Feb 2020 - ongoing) Mini stocking advent calendar](crochet/stocking_advent_cal.md)
-- [(Oct 2019 - Dec 2019) Bridesmaids' pillows](crochet/bridesmaids_pillows.md)
-- [(Sept 2019 - Oct 2019) Christmas stockings](crochet/christmas_stockings.md)
-- [(Aug 2019 - Sept 2019) Summer's sweater](crochet/summer_sweater.md)
-- [(June 2019) Oven mitt](crochet/oven_mitt.md)
-- [(May 2019) Soccer ball pillow](crochet/soccer_pillow.md)
-- [(Apr 2019 - May 2019) Mother's Day apron](crochet/mothers_day_apron.md)
+- [M pillow](crochet/m_pillow.md) <span style="float:right;">Sept 2020 - Oct 2020</span>
+- [Bat amigurumi](crochet/bat.md) <span style="float:right;">Aug 2020</span>
+- [Annie's blanket](crochet/annie_blanket.md) <span style="float:right;">Mar 2020 - May 2020</span>
+- [Mini stocking advent calendar](crochet/stocking_advent_cal.md) <span style="float:right;">Feb 2020 - ongoing</span>
+- [Bridesmaids' pillows](crochet/bridesmaids_pillows.md) <span style="float:right;">Oct 2019 - Dec 2019</span>
+- [Christmas stockings](crochet/christmas_stockings.md) <span style="float:right;">Sept 2019 - Oct 2019</span>
+- [Summer's sweater](crochet/summer_sweater.md) <span style="float:right;">Aug 2019 - Sept 2019</span>
+- [Oven mitt](crochet/oven_mitt.md) <span style="float:right;">June 2019</span>
+- [Soccer ball pillow](crochet/soccer_pillow.md) <span style="float:right;">May 2019</span>
+- [Mother's Day apron](crochet/mothers_day_apron.md) <span style="float:right;">Apr 2019 - May 2019</span>
 
 ## Whittle projects
 
