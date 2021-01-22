@@ -20,6 +20,19 @@ I saw the [perfect pattern](https://www.ravelry.com/patterns/library/jolaskjol) 
     
 <table style="width:100%"> 
   <tr>
+    <td> </td>
+    <td>1</td>
+    <td>2</td>
+    <td>3</td>
+    <td>4</td>
+    <td>5</td>
+    <td>6</td>
+    <td>7</td>
+    <td>8</td>
+    <td>9</td>
+    <td> </td>
+  </tr>
+  <tr>
     <td>p</td>
     <td>k</td>
     <td>k</td>
