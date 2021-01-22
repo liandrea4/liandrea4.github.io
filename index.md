@@ -7,18 +7,13 @@
 
 ## Knit projects
 
-<ul>
-  <li>
-    <span style="float:left;">Christmas tree skirt</span><span style="float:right;">Jan 2021 - ongoing<br></span>
-  </li>
-  <li>
-    <span style="float:left;"><a href="www.google.com">Owlie socks</a></span>
-    <span style="float:right">Dec 2020 - Jan 2021<br></span>
-  </li>
-  <li>
-    <span style="float:left;"><a href="knit/owlie_socks.html">Owlie socks</a></span><span style="float:right">Dec 2020 - Jan 2021<br></span>
-  </li>
-</ul>
+- [Christmas tree skirt](knit/tree_skirt.md) <span style="float:right;">Jan 2021 - ongoing</span>
+- [Owlie socks](knit/owlie_socks.md) <span style="float:right">Dec 2020 - Jan 2021<br></span>
+- [Regina Marie shawl](knit/regina_marie_shawl.md) <span style="float:right">Nov 2020 - Dec 2020</span>
+- [Mercury socks](knit/mercury_socks.md) <span style="float:right">Oct 2020</span> 
+- [Woodland walk socks](knit/woodland_walk_socks.md) <span style="float:right">Oct 2020</span>
+- [Christmas stockings](knit/christmas_stockings.md) <span style="float:right">Jul 2020 - Sep 2020</span>
+- [Copilot cowl](knit/copilot_cowl.md) <span style="float:right">Jul 2020</span>
 
 ## Crochet projects
 
