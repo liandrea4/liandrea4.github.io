@@ -11,6 +11,6 @@
 - Made for: my sister for Christmas 2020 
 
 ## Notes 
-Much better tension than my first pair of socks despite the same needles, yarn, etc. I almost wanted to keep it for myself, but they're acrylic socks so figured might as well give them to my sister. 
+Much better tension than my first pair of socks despite the same needles, yarn, etc. I almost wanted to keep it for myself, but they're for my sister for Christmas :( 
 
 I also learned how to knit continental on this project! It was slow-going at first but I think has helped a lot with my speed since :) 
