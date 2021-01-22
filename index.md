@@ -6,12 +6,13 @@
 - [Contact the knitter](mailto:liandrea4@gmail.com)
 
 ## Knit projects
+p
 
-<span style="float:left"> <a href="knit/tree_skirt.md">Christmas tree skirt</a> </span>
-<span style="float:right">Jan 2021 - ongoing</span> 
+<p> <span style="float:left"> <a href="knit/tree_skirt.md">Christmas tree skirt</a> </span>
+<span style="float:right">Jan 2021 - ongoing</span> </p>
 
-<span style="float:left"> <a href="knit/owlie_socks.md">Owlie socks</a> </span> 
-<span style="float:right">Dec 2020 - Jan 2021</span> 
+<p> <span style="float:left"> <a href="knit/owlie_socks.md">Owlie socks</a> </span> 
+<span style="float:right">Dec 2020 - Jan 2021</span> </p>
 
 <span style="float:left"> <a href="knit/regina_marie_shawl.md">Regina Marie shawl</a> </span> 
 <span style="float:right">Nov 2020 - Dec 2020</span>
