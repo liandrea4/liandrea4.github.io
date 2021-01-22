@@ -36,17 +36,17 @@ Steeking is usually only recommended for wool fiber so that the edge once cut wi
     <td> </td>
   </tr>
   <tr>
-    <td>p</td>
-    <td>k</td>
-    <td>k</td>
-    <td>k</td>
-    <td>k</td>
-    <td>k</td>
-    <td>k</td>
-    <td>k</td>
-    <td>k</td>
-    <td>k</td>
-    <td>p</td>
+    <td><span style="color:red">p</span></td>
+    <td><span style="color:red">k</span></td>
+    <td><span style="color:red">k</span></td>
+    <td><span style="color:yellow">k</span></td></td>
+    <td><span style="color:red">k</span></td></td>
+    <td><span style="color:yellow">k</span></td></td>
+    <td><span style="color:red">k</span></td></td>
+    <td><span style="color:yellow">k</span></td></td>
+    <td><span style="color:red">k</span></td></td>
+    <td><span style="color:red">k</span></td></td>
+    <td><span style="color:red">p</span></td></td>
   </tr>
   <tr>
     <td><img src="https://via.placeholder.com/15/ff0000?text=+"</td>
