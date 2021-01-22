@@ -21,7 +21,7 @@ The paid pattern that I liked used wool yarn, was knit in the round, and then st
 Steeking is usually only recommended for wool fiber so that the edge once cut will felt together. But part of the whole goal of this project is to use up some cheap acrylic yarn. So I wanted to try to steek my cheap 100% acrylic yarn. I did a couple test swatches, and have decided to combine the [crochet method](https://blog.tincanknits.com/2014/09/18/steek/) and the [knit facing](https://www.purlsoho.com/create/steek-with-knit-facing/) method with some (more) modifications. 
 
 <table style="width:100%"> 
-  <caption>Steek (yellow indicates a white stitch)</caption>
+  <caption>Steek</caption>
   <tr>
     <td> </td>
     <td>1</td>
@@ -39,11 +39,11 @@ Steeking is usually only recommended for wool fiber so that the edge once cut wi
     <td><span style="color:red">__p__</span></td>
     <td><span style="color:red">__k__</span></td>
     <td><span style="color:red">__k__</span></td>
-    <td><span style="color:yellow">__k__</span></td>
+    <td><span style="color:white">__k__</span></td>
     <td><span style="color:red">__k__</span></td>
-    <td><span style="color:yellow">__k__</span></td>
+    <td><span style="color:white">__k__</span></td>
     <td><span style="color:red">__k__</span></td>
-    <td><span style="color:yellow">__k__</span></td>
+    <td><span style="color:white">__k__</span></td>
     <td><span style="color:red">__k__</span></td>
     <td><span style="color:red">__k__</span></td>
     <td><span style="color:red">__p__</span></td>
