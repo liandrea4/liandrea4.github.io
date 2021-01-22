@@ -8,6 +8,8 @@
 ## Knit projects
 
 - [(Jan 2021 - ongoing) Christmas tree skirt](knit/tree_skirt.md)
+- [(Oct 2020) Mercury socks](knit/mercury_socks.md)
+- [(Oct 2020) Woodland walk socks](knit/woodland_walk_socks.md)
 - [(Jul 2020 - Sep 2020) Christmas stockings](knit/christmas_stockings.md)
 
 ## Crochet projects
