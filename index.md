@@ -7,8 +7,7 @@
 
 ## Knit projects
 
-<body>
-<ul>
+<ol>
     <li>
         <span style="float:left;"> <a href="knit/tree_skirt.html">Christmas tree skirt</a> </span>
         <span style="float:right;">Jan 2021 - ongoing</span> <br />
@@ -18,9 +17,7 @@
         <span style="float:right">Dec 2020 - Jan 2021</span>
     </li>
 
- </ul>
- 
- </body>
+ </ol>
 
 
 ## Crochet projects
