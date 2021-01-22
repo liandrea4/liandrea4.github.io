@@ -4,7 +4,7 @@
 
 (Jul 2020 - Sep 2020) Christmas stockings for my hubby and me.
 
-![](media/christmas-stockings.jpg)
+<img src="media/christmas-stockings.jpg" style="max-width: 100%" />
 
 #### Yarn
 
