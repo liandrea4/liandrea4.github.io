@@ -84,7 +84,7 @@ The problem with both #1 and #2 for super sparse colorwork (e.g. in the top part
 
 One thing that I didn't anticipate with using duplicate stitch in the super sparse colorwork sections though, is that you can see a little of the white peeking through the red from the end that is weaved in. I don't know if I just didn't weave in well, if the yarn is just cheap (the ends split really easily and then it is even more obvious), or if it is just inevitable. But I don't really like the way it looks so perhaps I will just end up taking out all the little flecks of white in the end. But on the bright side, the stitch markers (the openable and closeable ones that Joe got me in my Darn Good Yarn boxes) were SUPER useful and I probably wouldn't have been able to do this at all without those stitch markers! Yay for the hubby! 
 
-### Timeline 
+## Timeline 
 
 ~Early Jan: Designed pattern and practiced some steeks! 
 
