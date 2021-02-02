@@ -2,12 +2,12 @@
 
 [*Back to home page*](..)
 
-(Nov 2020 - Dec 2020) My first lace weight shawl! 
+(Nov 2020 - Dec 2020) My first lace weight shawl aka adorn :) ! 
 
 <img src="media/regina_marie.jpg" style="max-width: 100%" />
 
 ## Details
-- Yarn: Darn Good Yarn Silk Lace Weight yarn in Sandy Beach [link](https://www.darngoodyarn.com/products/lace-weight-silk-yarn?variant=869997445126)
+- Yarn: Darn Good Yarn Silk Lace Weight yarn in Sandy Beach ([link](https://www.darngoodyarn.com/products/lace-weight-silk-yarn?variant=869997445126)), from the Darn Good Yarn monthly subscription box gifted by the hubby for my birthday :) 
 - Needle size: 4 (3.5mm) 
 - Pattern: [Regina Marie shawl](https://www.ravelry.com/patterns/library/regina-marie)
 - Made for: Mom for Christmas 2020
