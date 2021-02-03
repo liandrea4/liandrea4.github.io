@@ -8,7 +8,7 @@ Socks with owls on them for the hubby :)
 <img src="media/owlie_socks.jpg" style="max-width: 80%" />
 
 ## Details
-- Yarn: Patons Kroy Socks, Gentry Grey 
+- Yarn: Patons Kroy Socks, Gentry Grey, 2 skeins total (100g)
 - Needle size: 2 (2.75mm) 
 - [Pattern](https://www.ravelry.com/patterns/library/owlie-socks)
 - Made for: hubby :) 
