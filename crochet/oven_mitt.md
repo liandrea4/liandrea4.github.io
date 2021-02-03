@@ -4,7 +4,7 @@
 
 (June 2019) My second oven mitt
 
-<img src="media/oven_mitt.jpg" style="max-width: 100%" />
+<img src="media/oven_mitt.jpg" style="max-width: 80%" />
 
 ## Details
 - Yarn: Peaches and Creme yarn, 100% cotton
