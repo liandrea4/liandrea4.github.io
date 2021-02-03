@@ -19,7 +19,7 @@
 
 - <span style="float:right;">Sept 2020 - Oct 2020</span> [M pillow](crochet/m_pillow.md) 
 - <span style="float:right;">Aug 2020</span> [Bat amigurumi](crochet/bat.md) 
-- <span style="float:right;">Mar 2020 - May 2020</span> [Annie's blanket](crochet/annie_blanket.md) 
+- <span style="float:right;">Feb 2020 - May 2020</span> [Annie's blanket](crochet/annie_blanket.md) 
 - <span style="float:right;">Feb 2020 - ongoing</span> [Mini stocking advent calendar](crochet/stocking_advent_cal.md) 
 - <span style="float:right;">Oct 2019 - Dec 2019</span> [Bridesmaids' pillows](crochet/bridesmaids_pillows.md) 
 - <span style="float:right;">Sept 2019 - Oct 2019</span> [Christmas stockings](crochet/christmas_stockings.md) 
