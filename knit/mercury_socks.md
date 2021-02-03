@@ -7,7 +7,7 @@
 <img src="media/mercury_socks.jpg" style="max-width: 80%" />
 
 ## Details
-- Yarn: Twinkle yarn, 100% acrylic
+- Yarn: Twinkle yarn, 100% acrylic, 1 skein
 - Needle size: 2 (2.75mm) 
 - [Pattern](https://www.ravelry.com/patterns/library/mercury-socks)
 - Made for: my sister for Christmas 2020 
