@@ -5,7 +5,7 @@
 Dec 2020 - Jan 2021
 Socks with owls on them for the hubby :) 
 
-<img src="media/owlie_socks.jpg" style="max-width: 100%" />
+<img src="media/owlie_socks.jpg" style="max-width: 80%" />
 
 ## Details
 - Yarn: Patons Kroy Socks, Gentry Grey 
