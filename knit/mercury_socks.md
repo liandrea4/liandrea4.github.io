@@ -4,7 +4,7 @@
 
 (Oct 2020) My second sock pattern! 
 
-<img src="media/mercury_socks.jpg" style="max-width: 100%" />
+<img src="media/mercury_socks.jpg" style="max-width: 80%" />
 
 ## Details
 - Yarn: Twinkle yarn, 100% acrylic
