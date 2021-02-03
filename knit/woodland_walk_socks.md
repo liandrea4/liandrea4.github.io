@@ -4,8 +4,8 @@
 
 (Oct 2020) My first sock pattern! 
 
-<img src="media/woodland_walk_socks1.jpg" style="max-width: 100%" />
-<img src="media/woodland_walk_socks2.jpg" style="max-width: 100%" />
+<img src="media/woodland_walk_socks1.jpg" style="max-width: 80%" />
+<img src="media/woodland_walk_socks2.jpg" style="max-width: 80%" />
 
 ## Details
 - Yarn: Twinkle yarn, 100% acrylic
