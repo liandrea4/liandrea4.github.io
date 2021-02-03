@@ -8,7 +8,7 @@
 <img src="media/woodland_walk_socks2.jpg" style="max-width: 80%" />
 
 ## Details
-- Yarn: Twinkle yarn, 100% acrylic
+- Yarn: Twinkle yarn, 100% acrylic, 1 skein
 - Needle size: 2 (2.75mm) 
 - [Pattern](https://www.ravelry.com/patterns/library/woodland-walk-socks)
 - Made for: my sister for Christmas 2020 
