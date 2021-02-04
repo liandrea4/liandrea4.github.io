@@ -8,7 +8,6 @@
 
 ## Details
 - Yarn: Peaches and Creme yarn, 100% cotton
-- Hook size: don't remember :( 
 - [Pattern](https://www.favecrafts.com/Kitchen-Crochet/Easy-Oven-Mitts-Crochet-Pattern)
 - Made for: our cooking selves :) 
 
