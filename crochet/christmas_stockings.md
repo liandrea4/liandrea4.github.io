@@ -8,7 +8,6 @@
 
 ## Details
 - Yarn: (Very mismatched) assorted worsted weight
-- Hook size: don't remember :( 
 - [Pattern](https://yarnandchai.com/malia-christmas-stocking/)
 - Made for: me and Joe
 
