@@ -4,9 +4,7 @@
 
 - [About the knitter](about.md)
 - [Contact the knitter](mailto:liandrea4@gmail.com)
-- [Knit glossary](knit/glossary.md)
-- [Crochet glossary](crochet/glossary.md)
-- [Whittle glossary](whittle/glossary.md)
+- [Glossary](glossary.md)
 
 ## Knit projects
 
