@@ -9,7 +9,6 @@ I need to add a picture of Summer wearing it too before she grows out of it! But
 
 ## Details
 - Yarn: Lion Brand Feels Like Butta, Ice 
-- Needle size: don't remember :( 
 - [Pattern](https://web.archive.org/web/20130724113136/http://www.petitepurls.com/Spring11/spring2011_c_pearls.html)
 - Made for: Summer's first birthday
 
