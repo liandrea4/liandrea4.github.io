@@ -17,4 +17,4 @@
 - Made for: me and Joe :)
 
 ## Notes 
-These work very well! The ones with holes in them allow some heat through more easily so condensation will build up between the pot/pan and the table. Those two are best when combined with another. I am thinking about making double thick ones in the future. 
+These work pretty well! The ones with holes in them allow some heat through more easily so condensation will build up between the pot/pan and the table. Those two are best when combined with another. I am thinking about making double thick ones in the future. 
