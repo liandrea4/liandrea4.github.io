@@ -9,7 +9,7 @@ Isn't she a cutie :)
 
 ## Details
 - Yarn: Bernat Softee Baby Stripes, 4 skeins
-- Needle size: don't remember :( 
+- Hook size: don't remember :( 
 - Pattern: [waffle stitch](https://bellacococrochet.com/waffle-stitch/)
 - Made for: Annie, Elaina's 3rd child and my first (and so far only) goddaughter! 
 
