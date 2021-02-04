@@ -8,7 +8,7 @@
 
 ## Details
 - Yarn: Assorted worsted weight
-- Needle size: 5mm
+- Hook size: 5mm
 - [Pattern](https://www.ollieholly.com/blog/2019/09/27/free-bat-amigurumi-crochet-pattern)
 - Made for: my mom for her birthday in 2020 
 
