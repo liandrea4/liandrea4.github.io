@@ -8,7 +8,7 @@
 
 ## Details
 - Yarn: Red Heart Super Saver, Aran Twine and Black
-- Needle size: 5.5mm
+- Hook size: 5.5mm
 - [Pattern](https://hearthookhome.com/throw-pillow-cover-free-crochet-pattern/)
 - [M chart](https://www.stitchfiddle.com/en/c/si1ih7-k30rc)
 - Made for: Soumya's roommate
