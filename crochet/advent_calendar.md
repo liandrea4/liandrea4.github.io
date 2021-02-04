@@ -8,7 +8,7 @@
 
 ## Details
 - Yarn: Assorted worsted weight
-- Needle size: 4mm I think?  
+- Hook size: 4mm I think?  
 - [Pattern](https://www.hobbycraft.co.uk/ideas/decor-hobbies/how-to-crochet-a-mini-stocking-advent)
 - Made for: me and Joe :)
 
