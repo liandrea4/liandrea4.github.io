@@ -1,4 +1,4 @@
-# Oven mitt
+# Oven mitts
 
 [*Back to home page*](..)
 
