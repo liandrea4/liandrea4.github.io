@@ -26,6 +26,7 @@
 - <span style="float:right;">Sept 2019 - Oct 2019</span> [Christmas stockings](crochet/christmas_stockings.md) 
 - <span style="float:right;">Aug 2019 - Sept 2019</span> [Summer's sweater](crochet/summer_sweater.md) 
 - <span style="float:right;">June 2019</span> [Oven mitts](crochet/oven_mitts.md) 
+- <span style="float:right;">2019, 2020</span> [Hot pads](crochet/hot_pads.md) 
 - <span style="float:right;">May 2019</span> [Soccer ball pillow](crochet/soccer_pillow.md) 
 - <span style="float:right;">Apr 2019 - May 2019</span> [Mother's Day apron](crochet/mothers_day_apron.md) 
 
