@@ -32,5 +32,5 @@
 
 ## Whittle projects
 
-- [(Coming soon) Many coming soon](whittle/sample.md)
+- <span style="float:right;">Coming soon</span> [Whittling project](404.md)
 
