@@ -1,5 +1,7 @@
 # Glossary
 
+[*Back to home page*](.)
+
 ## Knit
 
 #### Fair isle
