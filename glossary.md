@@ -13,7 +13,7 @@ For a piece worked flat: continuous knit rows, such that the fabric has some rid
 For a piece worked in the round: alternating rows of knit and purl, such that the fabric looks uniform on the [RS](#right-side-rs)
 Note: The garter stitch will not generally curl, unlike stockinette. The garter stitch also looks the same when viewed from the [RS](#right-side-rs) vs. [WS](#wrong-side-ws).
 
-<img src="https://sheepandstitch.com/wp-content/uploads/2018/12/garter-stitch-closeup.jpg" style="max-width: 50%" />
+<img src="https://www.thesprucecrafts.com/thmb/YtInpwEyvnmOIwyroeVUY7_j4RQ=/2489x1867/smart/filters:no_upscale()/GarterStitch1-5af0e8ab04d1cf00370b6808.jpg" style="max-width: 80%" />
 
 #### Knit stitch
 The most basic type of stitch
