@@ -35,6 +35,6 @@ The reverse side of the work
 
 ## Crochet
 
-#### Sc: single crochet
+#### Single crochet (SC)
 
 ## Whittle
