@@ -4,11 +4,20 @@
 
 ## Knit
 
+#### Bind off
+TODO
+
+#### Cast on
+TODO
+
 #### Fair isle
 A style of knitting with multiple strands of different colors to create a pattern
 
 #### Float
 When carrying the yarn behind the work in colorwork knitting e.g. [fair isle](#fair-isle), the unworked yarn will create 
+
+#### Frog
+TODO
 
 #### Garter
 For a piece worked flat: continuous knit rows, such that the fabric has some ridges when viewed from the [RS](#right-side-rs). For a piece worked in the round: alternating rows of knit and purl, such that the fabric looks uniform on the [RS](#right-side-rs). Note: The garter stitch will not generally curl, unlike stockinette. The garter stitch also looks the same when viewed from the [RS](#right-side-rs) vs. [WS](#wrong-side-ws).
