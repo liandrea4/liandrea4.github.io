@@ -21,7 +21,7 @@ I started with the medium size (64st around) because all the socks I've knit so 
 
 - 2/5/2021: Started! 
 
-- 2/8/2021: The sock was too big :( Unstretched, it was about the size of Joe's Owlie socks (after he's been wearing them so they're a little stretched out). I offered them to Joe but he said I should make a pair for myself so I decided to frog and make the small size instead. Of course, like a dingus, I forgot to take a picture before frogging. I had reached row 16 on the medium chart..
+- 2/8/2021: The sock was too big :( Unstretched, it was about the size of Joe's Owlie socks (after he's been wearing them so they're a little stretched out). I offered them to Joe but he said I should make a pair for myself so I decided to frog and make the small size instead. Of course, like a dingus, I forgot to take a picture before frogging. I had reached row 16 on the medium chart.\
 Finished 1 chart repeat of the small size! Fits well so far! Progress picture and picture with Lacy :) 
 <img src="media/speckled_space1.jpg" style="max-width: 47%" /> &emsp; <img src="media/speckled_space_lacy.jpg" style="max-width: 47%" />
 
