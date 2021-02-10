@@ -25,4 +25,6 @@ I started with the medium size (64st around) because all the socks I've knit so 
 Finished 1 chart repeat of the small size! Fits well so far! Lacy is so cute :) \
 <img src="media/speckled_space_lacy.jpg" style="max-width: 47%" /> &ensp; <img src="media/speckled_space_lacy2.jpg" style="max-width: 47%" />
 
+- 2/9/2021: Oh boy I am not enjoying toe up socks! They are supposed to be more convenient because you don't have to be worried about running out of yarn while you are doing the foot, but I think it is so much harder to know when to start the gusset! I have been stressing and cannot decide! I decided to start the gusset on row 11 of the 2nd repeat. 
+
 
