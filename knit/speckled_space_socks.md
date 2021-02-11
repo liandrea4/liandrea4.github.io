@@ -27,4 +27,6 @@ Finished 1 chart repeat of the small size! Fits well so far! Lacy is so cute :) 
 
 - 2/9/2021: Oh boy I am not enjoying toe up socks! They are supposed to be more convenient because you don't have to be worried about running out of yarn while you are doing the foot, but I think it is so much harder to know when to start the gusset! I have been stressing and cannot decide! I decided to start the gusset on row 11 of the 2nd repeat. 
 
+- 2/10/2021: I am flying, I'm already on the leg! The heel turn was very puzzling (much less intuitive than top down socks in my opinion) but I trusted the pattern and made it through. The heel flap was really nice because you didn't have to pick up any stitches. \
+<img src="media/speckled_space_lacy3.jpg" style="max-width: 47%" /> &ensp; <img src="media/speckled_space_lacy4.jpg" style="max-width: 47%" />
 
