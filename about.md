@@ -1,4 +1,4 @@
-# About the cro-knit-ler
+# About the croknittler
 
 [*Back to home page*](.)
 
