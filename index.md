@@ -2,8 +2,8 @@
 
 ## About
 
-- [About the knitter](about.md)
-- [Contact the knitter](mailto:liandrea4@gmail.com)
+- [About the cro-knit-ler](about.md)
+- [Contact the cro-knit-ler](mailto:liandrea4@gmail.com)
 - [Glossary](glossary.md)
 
 ## Knit projects
