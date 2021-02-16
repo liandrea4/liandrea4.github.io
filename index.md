@@ -10,6 +10,7 @@
 
 - <span style="float:right;">Feb 2021 - ongoing</span> [Speckled space socks](knit/speckled_space_socks.md) 
 - <span style="float:right;">Jan 2021 - ongoing</span> [Christmas tree skirt](knit/tree_skirt.md) 
+- <span style="float:right;">Jan 2021</span> [Christmas ornaments](knit/christmas_ornaments.md) 
 - <span style="float:right">Dec 2020 - Jan 2021</span> [Owlie socks](knit/owlie_socks.md) 
 - <span style="float:right">Nov 2020 - Dec 2020</span> [Regina Marie shawl](knit/regina_marie.md) 
 - <span style="float:right">Oct 2020</span> [Mercury socks](knit/mercury_socks.md) 
