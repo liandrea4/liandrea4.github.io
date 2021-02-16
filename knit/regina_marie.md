@@ -29,7 +29,7 @@ Fun fact: I frogged and knit this shawl probably approximately 5 times to comple
 
 This is the first time I am blocking a project! I have heard it makes a ***BIG*** difference with lace work. Because this is silk yarn, which is apparently more fragile than other yarns e.g. wool, I used a technique called spray blocking instead of wet or steam blocking. Essentially I pinned the work into place and then sprayed it with room temperature water in a spray bottle until the work was lightly damp everywhere. Then you just let it air dry (not in direct sunlight) and it supposedly will keep its shape once dried. 
 
-I actually sprayed it down and let it air dry twice because I was skeptical it would work and I didn't want to unpin it only to have to reblock and repin it. So hopefully it will ultra keep its shape. I think the before and during blocking pictures are super interesting. 
+I actually sprayed it down and let it air dry twice because I was skeptical it would work and I didn't want to unpin it only to have to reblock and repin it. So hopefully it will ultra keep its shape. I think the before and during blocking pictures are super interesting. Watch for scale :) 
 
 <img src="media/regina_marie_preblock.jpg" style="max-width: 100%" />
 <img src="media/regina_marie_pinned.jpg" style="max-width: 100%" />
