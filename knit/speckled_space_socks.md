@@ -37,4 +37,5 @@ Well the silver lining is that because I was frogging anyways, I picked up an ex
 
 - 2/12/2021: I messed up :( I somehow forgot to do one of the cables and I noticed it on the following row but didn't think it was worth it to ladder down and fix becuase I thought it wouldn't be very noticeable. A few rows later and I think it is quite noticeable. But because of the cables, laddering back is pretty complicated and I don't want to tink/frog back. So I am just going to leave it in and hope that it is not *too* bad. But it is on the front of the sock too :( I am sad
 
-- 2/15/2021: I finished my first sock! Now just need to muster up the willpower to do the next one. I had a LOT of leftover yarn at the end :( So perhaps I will just collect all of my leftover sock yarn and make something at some point in the future. We'll see! \ <img src="media/speckled_space_sock_done.jpg" style="max-width: 80%" /> 
+- 2/15/2021: I finished my first sock! Now just need to muster up the willpower to do the next one. I had a LOT of leftover yarn at the end :( So perhaps I will just collect all of my leftover sock yarn and make something at some point in the future. We'll see! 
+<img src="media/speckled_space_sock_done.jpg" style="max-width: 80%" /> 
