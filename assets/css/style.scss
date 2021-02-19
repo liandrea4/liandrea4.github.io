@@ -1,0 +1,9 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* get rid of "Hosted on ..." */
+footer {
+    display: none;
+}
