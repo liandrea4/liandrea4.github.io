@@ -1,7 +1,7 @@
 <style>
 .date {
     float: right;
-    padding-left: 2em;
+    padding-left: 1em;
 }
 </style>
 
