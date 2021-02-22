@@ -1,3 +1,7 @@
+---
+comments: 3
+---
+
 # Christmas tree skirt
 
 [*Back to home page*](..)
@@ -95,4 +99,6 @@ One thing that I didn't anticipate with using duplicate stitch in the super spar
 
 2/1/2021: I finally got to the part where I can start my ladderback jacquard white (instead of needing to duplicate stitch every individual stitch)! But I am almost out of red and I don't want to start the ladderback jacquard part until I get more red because it will be harder to store/transport the project is 2 balls of yarn are attached to the work than 1. So I will need to go to the store and buy more red yarn. Feels so counterproductive because the goal of this project was to use up yarn, not buy more! I am thinking I will probably run out of white too... So perhaps I should buy more white while I'm there too. Sigh... I am also starting to slow down on the project; because the row lengths are increasing, each round takes longer and longer :/ I calculated it too - I am on row 66 out of 123 but if you go by % of stitches in the project, I am only 37% of the way through :( And I am already getting sick of stockinette. Well I guess that's why I started it in January, I have all year to finish it by Christmas! 
 
+
+{% include comments.html %}
 

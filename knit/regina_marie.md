@@ -1,3 +1,7 @@
+---
+comments: 2
+---
+
 # Regina Marie shawl
 
 [*Back to home page*](..)
@@ -35,3 +39,6 @@ I actually sprayed it down and let it air dry twice because I was skeptical it w
 <img src="media/regina_marie_pinned.jpg" style="max-width: 100%" />
 
 Also technically, you can get special blocking mats, blocking pins, and blocking detergent. But I just used a (really really old) cork board with a cheap towel laid over it, regular push pins (blocking pins are supposed to be stainless steel so they won't rust), and room temperature tap water (you aren't supposed to use any detergent/soap for blocking silk yarn). I think this worked sufficiently well so unless I have a much bigger thing I need to block (or unless the push pins rust), I will probably just continue using this. Proof that literally never throwing anything away has its positives sometimes! 
+
+
+{% include comments.html %}

@@ -1,3 +1,7 @@
+---
+comments: 1
+---
+
 # Owlie socks
 
 [*Back to home page*](..)
@@ -27,3 +31,6 @@ I did two repeats of the owlie motif on the sock cuff, then 3.5 repeats on the g
 - Row 4: k3, p across, k3
 
 Plain toe following the decreases described in the pattern. I also rotated the pattern 45 degrees so the owls would be closer together on the top of the foot, instead of on the side of the foot. 
+
+
+{% include comments.html %}
