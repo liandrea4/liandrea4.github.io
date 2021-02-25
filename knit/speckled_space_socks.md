@@ -1,3 +1,7 @@
+---
+comments: 4
+---
+
 # Speckled space socks
 
 [*Back to home page*](..)
@@ -42,3 +46,7 @@ Well the silver lining is that because I was frogging anyways, I picked up an ex
   <img src="media/speckled_space_sock_done.jpg" style="max-width: 80%" /> 
 
 - 2/16/2021: Started 2nd sock. All these notes were super helpful to make it identical :) 
+
+
+
+{% include comments.html %}
