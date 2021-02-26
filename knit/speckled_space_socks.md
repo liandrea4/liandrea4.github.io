@@ -8,7 +8,7 @@ comments: 4
 
 (Feb 2021 - ongoing) My first toe up sock
 
-<img src="media/speckled_space1.jpg" style="max-width: 80%" />
+<img src="media/speckled_space_socks1.jpg" style="max-width: 47%" /> &ensp; <img src="media/speckled_space_socks2.jpg" style="max-width: 47%" />
 
 ## Details
 - Yarn: Patons Kroy Socks, Copper Colors, 2 skeins total (100g)
@@ -19,7 +19,7 @@ comments: 4
 
 My first toe up sock so I needed to start with my (very cheap, low quality) 29" circular needle before switching to my fancy Chiaogoo 9" circular. I followed Judy's Magic Cast On per [this video](https://www.youtube.com/watch?v=1pmxRDZ-cwo) instead of the tutorial that was linked in the pattern. 
 
-I started with the medium size (64st around) because all the socks I've knit so far are 64st around. But then it was too big so I frogged and did the small size instead. I didn't frog to the beginning so I still have the medium size (14st each) cast on instead of the small size (12st each) cast on. 
+I started with the medium size (64st around) because all the socks I've knit so far are 64st around. But then it was too big so I frogged and did the small size instead. I didn't frog to the beginning so I still have the medium size (14st each) cast on instead of the small size (12st each) cast on. I used [Jeny's Surprisingly Stretchy Bind-off](https://www.youtube.com/watch?v=ol8aZ7z_ISs) to bind off.
 
 ## Timeline
 
@@ -47,6 +47,9 @@ Well the silver lining is that because I was frogging anyways, I picked up an ex
 
 - 2/16/2021: Started 2nd sock. All these notes were super helpful to make it identical :) 
 
+- 2/25/2021: Officially finished the 2nd sock! Technically I finished it yesterday but I cut and wove in the ends today. They are a *little* bit big on the foot I think but very comfy otherwise. Let's see if they are warm :) 
+
+Well that was a nice distracting project. Back to the Christmas tree skirt I guess (I bought a new skein of red yarn). 
 
 
 {% include comments.html %}
