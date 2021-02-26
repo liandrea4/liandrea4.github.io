@@ -8,7 +8,7 @@ comments: 2
 
 (Nov 2020 - Dec 2020) My first lace weight shawl aka adorn :) ! 
 
-<img src="media/regina_marie.jpg" style="max-width: 100%" />
+<img src="media/adorn.jpg" style="max-width: 100%" />
 
 ## Details
 - Yarn: Darn Good Yarn Silk Lace Weight yarn in Sandy Beach ([link](https://www.darngoodyarn.com/products/lace-weight-silk-yarn?variant=869997445126)), from the Darn Good Yarn monthly subscription box gifted by the hubby for my birthday :) 
@@ -39,6 +39,8 @@ I actually sprayed it down and let it air dry twice because I was skeptical it w
 <img src="media/regina_marie_pinned.jpg" style="max-width: 100%" />
 
 Also technically, you can get special blocking mats, blocking pins, and blocking detergent. But I just used a (really really old) cork board with a cheap towel laid over it, regular push pins (blocking pins are supposed to be stainless steel so they won't rust), and room temperature tap water (you aren't supposed to use any detergent/soap for blocking silk yarn). I think this worked sufficiently well so unless I have a much bigger thing I need to block (or unless the push pins rust), I will probably just continue using this. Proof that literally never throwing anything away has its positives sometimes! 
+
+Update: I unpinned it and it didn't shrink back! It looks SO much better post-blocking compared with pre-blocking :) 
 
 
 {% include comments.html %}
