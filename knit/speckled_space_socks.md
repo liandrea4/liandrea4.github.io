@@ -6,7 +6,7 @@ comments: 4
 
 [*Back to home page*](..)
 
-(Feb 2021 - ongoing) My first toe up sock
+(Feb 2021 - Feb 2021) My first toe up sock
 
 <img src="media/speckled_space_socks1.jpg" style="max-width: 47%" /> &ensp; <img src="media/speckled_space_socks2.jpg" style="max-width: 47%" />
 
