@@ -1,10 +1,4 @@
 <style>
-ul li {
-    margin: 3px 0;
-}
-li a {
-    font-size: 16px;
-}
 li span {
     float: right;
     padding-left: 1em;
