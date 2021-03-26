@@ -100,5 +100,9 @@ One thing that I didn't anticipate with using duplicate stitch in the super spar
 
 - 2/25/2021: Well I took a little bit of a break to knit myself the [speckled space socks](speckled_space_socks.md), but I'm back at it again! I bought a skein of yarn which out of all the yarn at Michaels, looked the most similar. It was Caron One Pound in Scarlet. I have a little ball of my old skein left, and I plan to alternate rows with my new skein and old skein to hopefully reduce any noticeable change in color due to dye lot. Wish me luck on this ladderback jacquard!
 
+- 3/25/2021: Well the color seems to match! At least from what I can tell. I have made lots of progress on the tree skirt and am almost done with the white colorwork part! I am so close! See below for a progress picture. Also I feel very very silly, but I ended up not doing ladderback jacquard. Yep, you heard that right :/ I just figured it was way too much effort especially because it would've only been relevant for a few rows because after that the floats get short enough for regular floats. So I decided to just carry the floats along and stagger where I carry them so that they don't show through to the front. But I feel a little silly because I spent so much time learning ladderback jacquard for nothing! Oh well, I suppose it may be helpful at some point in the future. 
+<img src="media/tree_skirt2.jpg" style="max-width: 80%" />
+
+
 {% include comments.html %}
 
