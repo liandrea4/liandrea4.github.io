@@ -6,7 +6,7 @@ comments: 3
 
 [*Back to home page*](..)
 
-(Jan 2021 - ongoing) Fair isle Christmas tree skirt. 
+(Jan 2021 - Mar 2021) Fair isle Christmas tree skirt. 
 
 <img src="media/tree_skirt_done.jpg" style="max-width: 100%" />
 
