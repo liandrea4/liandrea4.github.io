@@ -25,6 +25,7 @@ li span {
 
 ## Crochet projects
 
+- <span>Mar 2021</span> [Bunny coasters](crochet/bunny_coasters.md) 
 - <span>Mar 2021</span> [Coaster basket](crochet/coaster_basket.md) 
 - <span>Sept 2020 - Oct 2020</span> [M pillow](crochet/m_pillow.md) 
 - <span>Aug 2020</span> [Bat amigurumi](crochet/bat.md) 
