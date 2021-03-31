@@ -8,6 +8,8 @@ comments: 3
 
 (Jan 2021 - ongoing) Fair isle Christmas tree skirt. 
 
+<img src="media/tree_skirt_done.jpg" style="max-width: 100%" />
+
 ## Details
 - Yarn: Caron One Pound in Scarlet; Red Heart Super Saver in White (100% acrylic) 
 - Needle size: 10.5 (6.5mm) 
@@ -105,6 +107,8 @@ Also I feel very very silly, but I ended up not doing ladderback jacquard. Yep, 
 
 - 3/25/2021: Well the colors for both the red and white seem to match! At least from what I can tell. I have made lots of progress on the tree skirt and am almost done with the white colorwork part! I am so close! See below for a progress picture. 
 <img src="media/tree_skirt2.jpg" style="max-width: 80%" />
+
+- 3/28/2021: I am finally done!!! I haven't decided if I will cut the steek or not, Joe doesn't think I should. I guess we will see! 
 
 
 {% include comments.html %}
