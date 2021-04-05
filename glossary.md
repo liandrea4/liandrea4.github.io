@@ -1,6 +1,9 @@
-# Glossary
+---
+title: Glossary
+comments: 8
+---
 
-[*Back to home page*](.)
+{% include post-header.md %}
 
 ## Knit
 
@@ -49,3 +52,6 @@ The reverse side of the work
 #### Single crochet (SC)
 
 ## Whittle
+
+
+{% include post-footer.html %}

@@ -1,6 +1,8 @@
-# Christmas stockings
+---
+title: Christmas stockings
+---
 
-[*Back to home page*](..)
+{% include post-header.md %}
 
 (Sept 2019 - Oct 2019) Crochet Christmas stockings.
 
@@ -17,3 +19,5 @@ I was using up cheap acrylic yarn (did you really expect anything else?) but I r
 The best way I could figure out to add the names was surface slip stitching on the white cuff. I think it looks pretty bad - I should probably have used something less contrast-y than pure black, but I also just don't look the way the letters look. Oh well, that is why I made knit ones too! 
 
 Fun fact: I partially knit these stocking driving back to California from Colorado after picking up the Mustang from Joe's brother. What a long (20 hours!) drive!
+
+{% include post-footer.html %}

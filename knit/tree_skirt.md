@@ -1,10 +1,9 @@
 ---
+title: Christmas tree skirt
 comments: 3
 ---
 
-# Christmas tree skirt
-
-[*Back to home page*](..)
+{% include post-header.md %}
 
 (Jan 2021 - Mar 2021) Fair isle Christmas tree skirt. 
 
@@ -96,7 +95,8 @@ One thing that I didn't anticipate with using duplicate stitch in the super spar
 - ~Early Jan: Designed pattern and practiced some steeks! 
 
 - ~1/15/2021: Finished designing the pattern and started knitting!
-<img src="media/tree_skirt1.jpg" style="max-width: 80%" />
+
+  <img src="media/tree_skirt1.jpg" style="max-width: 80%" />
 
 - 2/1/2021: I finally got to the part where I can start my ladderback jacquard white (instead of needing to duplicate stitch every individual stitch)! But I am almost out of red and I don't want to start the ladderback jacquard part until I get more red because it will be harder to store/transport the project is 2 balls of yarn are attached to the work than 1. So I will need to go to the store and buy more red yarn. Feels so counterproductive because the goal of this project was to use up yarn, not buy more! I am thinking I will probably run out of white too... So perhaps I should buy more white while I'm there too. Sigh... I am also starting to slow down on the project; because the row lengths are increasing, each round takes longer and longer :/ I calculated it too - I am on row 66 out of 123 but if you go by % of stitches in the project, I am only 37% of the way through :( And I am already getting sick of stockinette. Well I guess that's why I started it in January, I have all year to finish it by Christmas! 
 
@@ -106,10 +106,10 @@ One thing that I didn't anticipate with using duplicate stitch in the super spar
 Also I feel very very silly, but I ended up not doing ladderback jacquard. Yep, you heard that right :/ I just figured it was way too much effort especially because it would've only been relevant for a few rows because after that the floats get short enough for regular floats. So I decided to just carry the floats along and stagger where I carry them so that they don't show through to the front. But I feel a little silly because I spent so much time learning ladderback jacquard for nothing! Oh well, I suppose it may be helpful at some point in the future. 
 
 - 3/25/2021: Well the colors for both the red and white seem to match! At least from what I can tell. I have made lots of progress on the tree skirt and am almost done with the white colorwork part! I am so close! See below for a progress picture. 
-<img src="media/tree_skirt2.jpg" style="max-width: 80%" />
+
+  <img src="media/tree_skirt2.jpg" style="max-width: 80%" />
 
 - 3/28/2021: I am finally done!!! I haven't decided if I will cut the steek or not, Joe doesn't think I should. I guess we will see! 
 
 
-{% include comments.html %}
-
+{% include post-footer.html %}

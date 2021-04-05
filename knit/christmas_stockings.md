@@ -1,6 +1,8 @@
-# Christmas stockings
+---
+title: Christmas stockings
+---
 
-[*Back to home page*](..)
+{% include post-header.md %}
 
 (Jul 2020 - Sep 2020) Christmas stockings for my hubby and me.
 
@@ -29,3 +31,5 @@ For the toe, after switching to white, I did:
 - one row knit even
 - decrease every row until 8 stitches left on each side (16 total)
 - bind off
+
+{% include post-footer.html %}

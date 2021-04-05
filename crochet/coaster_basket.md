@@ -1,10 +1,9 @@
 ---
+title: Coaster basket
 comments: 5
 ---
 
-# Coaster basket
-
-[*Back to home page*](..)
+{% include post-header.md %}
 
 (Mar 2021) Coaster basket
 
@@ -21,4 +20,4 @@ I held the creme yarn triple (check out this [nifty trick](https://www.youtube.c
 
 Also this pattern was lovely! A lot of patterns I looked at seemed to give the basket stiffness through a small hook crocheted really tight which hurt a lot of people's hands, but this one is smarter by doing multiple layers and using the plastic canvas! I am planning on making more baskets with this strategy - circular and rectangular :) 
 
-{% include comments.html %}
+{% include post-footer.html %}

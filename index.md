@@ -3,6 +3,7 @@ li span {
     float: right;
     padding-left: 1em;
 }
+li a {font-weight: 300;}
 </style>
 
 ## About

@@ -1,6 +1,10 @@
-# Whittling project
+---
+title: Whittling project
+---
 
-[*Back to home page*](..)
+{% include post-header.md %}
 
 Many coming soon!
+
+{% include post-footer.html %}
 

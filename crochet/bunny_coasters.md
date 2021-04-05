@@ -1,10 +1,9 @@
 ---
+title: Bunny coasters
 comments: 6
 ---
 
-# Bunny coasters
-
-[*Back to home page*](..)
+{% include post-header.md %}
 
 (Mar 2021) Bunny coasters
 
@@ -24,4 +23,4 @@ This is the first time I have ever followed a totally charted pattern! It was so
 
 They turned out super cute! I hope Summer likes them :) It is Easter this Sunday.
 
-{% include comments.html %}
+{% include post-footer.html %}

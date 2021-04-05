@@ -1,6 +1,8 @@
-# Woodland walk socks
+---
+title: Woodland walk socks
+---
 
-[*Back to home page*](..)
+{% include post-header.md %}
 
 (Oct 2020) My first sock pattern! 
 
@@ -16,4 +18,6 @@
 ## Notes
 This was the first pair of socks I have knit! The pattern was lovely to knit - interesting enough to not become too monotonous but also simple enough to eventually memorize. It also looks very nice. 
 
-The tension is a little wonky - the socks definitely could've been a little bit tighter but all in all, pretty good for my first pair of socks if I do say so myself! 
+The tension is a little wonky - the socks definitely could've been a little bit tighter but all in all, pretty good for my first pair of socks if I do say so myself!
+
+{% include post-footer.html %}

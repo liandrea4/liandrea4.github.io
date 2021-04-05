@@ -1,6 +1,8 @@
-# Soccer ball pillow
+---
+title: Soccer ball pillow
+---
 
-[*Back to home page*](..)
+{% include post-header.md %}
 
 (May 2019) Soccer ball pillow for a soccer lover
 
@@ -15,3 +17,5 @@ I freehanded the pattern! I wanted a flat-ish pillow instead of a spherical socc
 - The following makes one side: Make 5 white hexagons, 1 black pentago, and 5 black trianges. Sew all pieces together so it looks like a soccer ball. 
 - Make 2 for 2 sides
 - Sew the two sides together, connected by a black strip between the two sides.
+
+{% include post-footer.html %}

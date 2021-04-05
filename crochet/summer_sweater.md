@@ -1,6 +1,8 @@
-# Summer's sweater
+---
+title: Summer's sweater
+---
 
-[*Back to home page*](..)
+{% include post-header.md %}
 
 (Aug 2019 - Sept 2019) My first wearable, albeit for a little baby
 
@@ -21,4 +23,6 @@ I should have added buttons to the front or a tie or something so that it could 
 
 The other thing which ***pains*** me still is that I messed up the pattern on one of the shoulders where instead of doing a big diamond (1 bobble, 2 bobbles, 3, 2, 1) I accidentally did a small diamond (1 bobble, 2 bobbles, 1). I was so upset and I probably would've frogged back to fix it but I had already binded off the end. And I guess no one will really notice. But I felt so dumb, especially giving it as a gift. 
 
-The yarn was pretty soft and pretty nice to work with. But I did definitely decide (I had been sort of thinking this before too) that knit is much better for garments because I don't like the look of the holes from crochet. I think this is one of the big reasons why I decided to try out knitting! 
+The yarn was pretty soft and pretty nice to work with. But I did definitely decide (I had been sort of thinking this before too) that knit is much better for garments because I don't like the look of the holes from crochet. I think this is one of the big reasons why I decided to try out knitting!
+
+{% include post-footer.html %}

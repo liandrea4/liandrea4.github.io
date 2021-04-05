@@ -1,6 +1,8 @@
-# Bat amigurumi
+---
+title: Bat amigurumi
+---
 
-[*Back to home page*](..)
+{% include post-header.md %}
 
 (Aug 2020) My first amigurumi in awhile and boy, do I remember why I didn't like making amigurumis.
 
@@ -19,4 +21,6 @@ The pattern called for sport weight yarn but, being the cheapo that I am, I was 
 
 It had been awhile since I crocheted when I did this project (I have been knitting mostly for the recent past). Everyone always talks about how crochet is more of a yarn eater, and boy is it true! I was trying to use up scrap yarn and kept running out of yarn because crochet takes so much more yarn! Also it's been awhile since I've done amigurumi or anything requiring sewing - I think the last time was the Mother's Day apron with the terrible appliques and before that was a giraffe rattle that I made for Rachel's kids but I don't have a picture of it. Anyways, boy do I remember why I didn't like making amigurumis, sewing the pieces all together is so boring. It always looks cute when you see pictures but it never looks as good without safety eyes and sewing pieces together is the WORST. 
 
-Also in case you were curious, when I gave my mom the bat box, I said very explicitly, "I thought you might like this, but if you won't put it up, *please tell me in the next week so I can return it*. I won't be offended. I just don't want it sitting in a corner of junk collecting dust." She told me in no uncertain terms that she liked it and wanted to keep it. Guess what? It is sitting in a corner of junk collecting dust. Which means more mosquitoes next summer :( 
+Also in case you were curious, when I gave my mom the bat box, I said very explicitly, "I thought you might like this, but if you won't put it up, *please tell me in the next week so I can return it*. I won't be offended. I just don't want it sitting in a corner of junk collecting dust." She told me in no uncertain terms that she liked it and wanted to keep it. Guess what? It is sitting in a corner of junk collecting dust. Which means more mosquitoes next summer :(
+
+{% include post-footer.html %}

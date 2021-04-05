@@ -1,10 +1,9 @@
 ---
+title: Battersea shirt
 comments: 7
 ---
 
-# Battersea shirt
-
-[*Back to home page*](..)
+{% include post-header.md %}
 
 (Apr 2021 - ongoing) My first knit wearable! 
 
@@ -39,7 +38,4 @@ I have been wanting to make a knit wearable for some time now but given that I m
   
 - 4/5/2021: Cast on! Given some of the comments from other people who have made this pattern, it sounds like the neckline can be a bit gigantic. So I did 128st (8 st less than the smallest size) and will increase up to the 2nd smallest size (35.5" circumference). Wish me luck! 
 
-
-
-
-{% include comments.html %}
+{% include post-footer.html %}

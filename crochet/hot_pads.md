@@ -1,6 +1,8 @@
-# Hot pads
+---
+title: Hot pads
+---
 
-[*Back to home page*](..)
+{% include post-header.md %}
 
 (2019, 2020) Assorted hot pads of different sizes/shapes
 
@@ -18,3 +20,5 @@
 
 ## Notes 
 These work pretty well! The ones with holes in them allow some heat through more easily so condensation will build up between the pot/pan and the table. Those two are best when combined with another. I am thinking about making double thick ones in the future. 
+
+{% include post-footer.html %}

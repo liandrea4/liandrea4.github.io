@@ -1,10 +1,9 @@
 ---
+title: Owlie socks
 comments: 1
 ---
 
-# Owlie socks
-
-[*Back to home page*](..)
+{% include post-header.md %}
 
 Dec 2020 - Jan 2021
 Socks with owls on them for the hubby :) 
@@ -33,4 +32,4 @@ I did two repeats of the owlie motif on the sock cuff, then 3.5 repeats on the g
 Plain toe following the decreases described in the pattern. I also rotated the pattern 45 degrees so the owls would be closer together on the top of the foot, instead of on the side of the foot. 
 
 
-{% include comments.html %}
+{% include post-footer.html %}

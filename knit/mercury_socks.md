@@ -1,6 +1,8 @@
-# Mercury socks
+---
+title: Mercury socks
+---
 
-[*Back to home page*](..)
+{% include post-header.md %}
 
 (Oct 2020) My second sock pattern! 
 
@@ -15,4 +17,6 @@
 ## Notes 
 Much better tension than my first pair of socks despite the same needles, yarn, etc. I almost wanted to keep it for myself, but they're for my sister for Christmas :( 
 
-I also learned how to knit continental on this project! It was slow-going at first but I think has helped a lot with my speed since :) 
+I also learned how to knit continental on this project! It was slow-going at first but I think has helped a lot with my speed since :)
+
+{% include post-footer.html %}

@@ -1,6 +1,8 @@
-# Bridesmaids' pillows
+---
+title: Bridesmaids' pillows
+---
 
-[*Back to home page*](..)
+{% include post-header.md %}
 
 (Jul 2019 - Sep 2019) Crocheted pillows for my bridemaids.
 
@@ -15,4 +17,6 @@
 - Made for: my bridesmaids as thank you gifts for our wedding! 
 
 ## Notes 
-I carried the black for the duration of the letter and the dropped it after the letter was done. I carried it back to the start of the row (sometimes having 2 bobbins of working yarn for very wide section) and knit over it so hide the float on the inside. I used a standard polyester pillow insert for the inside. 12"x12" for the S pillows and 12"x16" for the L pillow (maid of honor). I could've added a zipper for ease of cleaning but I was too lazy :) 
+I carried the black for the duration of the letter and the dropped it after the letter was done. I carried it back to the start of the row (sometimes having 2 bobbins of working yarn for very wide section) and knit over it so hide the float on the inside. I used a standard polyester pillow insert for the inside. 12"x12" for the S pillows and 12"x16" for the L pillow (maid of honor). I could've added a zipper for ease of cleaning but I was too lazy :)
+
+{% include post-footer.html %}

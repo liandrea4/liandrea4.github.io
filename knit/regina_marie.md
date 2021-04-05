@@ -1,10 +1,9 @@
 ---
+title: Regina Marie shawl
 comments: 2
 ---
 
-# Regina Marie shawl
-
-[*Back to home page*](..)
+{% include post-header.md %}
 
 (Nov 2020 - Dec 2020) My first lace weight shawl aka adorn :) ! 
 
@@ -43,4 +42,4 @@ Also technically, you can get special blocking mats, blocking pins, and blocking
 Update: I unpinned it and it didn't shrink back! It looks SO much better post-blocking compared with pre-blocking :) 
 
 
-{% include comments.html %}
+{% include post-footer.html %}
