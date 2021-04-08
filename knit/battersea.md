@@ -30,12 +30,22 @@ I have been wanting to make a knit wearable for some time now but given that I m
   
   I've heard that gauge swatches are really important for wearables so I made my first gauge swatch. I knit it flat instead of in the round with long floats which maybe would've been more accurate. Honestly, I don't know if it really will help me at all though. These were my gauge results (where when I say blocked, I really just mean soaked in cold water and lain flat to dry, not pinned): 
     - Pattern calls for: 18st x 32 rows 
-    - My gauge swatch (unblocked): 20st x 29 rows 
-    - My gauge swatch (blocked): 20st x 30.5 rows
+    - My gauge swatch, size 6 needles (unblocked): 20st x 29 rows 
+    - My gauge swatch, size 6 needles (blocked): 20st x 30.5 rows
   I guess by this, it would mean that I had to go up a size to match the st gauge (which is apparently more important than row gauge) but I don't want there to be too many holes in my shirt otherwise it will be see-through and I was actually thinking about going down a needle size instead of up! Anyways so I just decided for now that I will do the same needle size and perhaps go up a size in the pattern than I otherwise would have. 
   
   Side-note: The yarn is so soft in my gauge swatch! I am excited :) 
   
 - 4/5/2021: Cast on! Given some of the comments from other people who have made this pattern, it sounds like the neckline can be a bit gigantic. So I did 128st (8 st less than the smallest size) and will increase up to the 2nd smallest size (35.5" circumference). Wish me luck! 
+
+- 4/6/2021: Well I got as far as the 1.25" of twisted rib and a few of the increase rounds. But I was really worried that the shirt would be a bit see through and I probably should've just pushed through but I wasn't happy with it so I decided to rip it out and go down a needle size. Sigh, I'm dumb. I'll need to reset the frogged yarn becuase right now it looks like crazy ramen but apparently tying it up like a hank, soaking it in cold water, and then drying will do the trick! In the meantime, I am using a new ball. 
+
+- 4/7/2021: Swatched with size 5 needles instead of size 6. The fabric feels a bit stiffer so less drape but it definitely is less see through which is good! I think I will stick with the size 5 needles. I made a mini gauge swatch (in the round this time instead of flat) and I am getting:
+    - Pattern calls for: 18st x 32 rows 
+    - My gauge swatch, size 5 needles (unblocked): 20.5st x ~32 rows (8 rows in 1" swatch) 
+  Given this I am planning on CO 136st (128st last time was a good size for larger needles) and either knitting the 2nd smallest (35.5") or the 3rd smallest (37") size. Hopefully I have enough yarn! 
+  I was much more careful (read: tighter tension) with my ribbing this time, and it looks miles better! I am glad I decided to rip it out previously, although it is much stiffer than before. I am just about done with the ribbing section and moving on to the increase section. Progress picture below! 
+  <img src="media/battersea_rib.jpg" style="max-width: 100%" />
+
 
 {% include post-footer.html %}
