@@ -48,7 +48,7 @@ I have been wanting to make a knit wearable for some time now but given that I m
   
   I was much more careful (read: tighter tension) with my ribbing this time, and it looks miles better! I am glad I decided to rip it out previously, although it is much stiffer than before. I am just about done with the ribbing section and moving on to the increase section. Progress picture below!
 
-<img src="media/battersea_rib.jpg" style="max-width: 100%" />
+  <img src="media/battersea_rib.jpg" style="max-width: 100%" />
 
 
 {% include post-footer.html %}
