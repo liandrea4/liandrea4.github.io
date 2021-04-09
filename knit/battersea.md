@@ -46,9 +46,10 @@ I have been wanting to make a knit wearable for some time now but given that I m
    
   Given this I am planning on CO 136st (128st last time was a good size for larger needles) and either knitting the 2nd smallest (35.5") or the 3rd smallest (37") size. Hopefully I have enough yarn! 
   
-  I was much more careful (read: tighter tension) with my ribbing this time, and it looks miles better! I am glad I decided to rip it out previously, although it is much stiffer than before. I am just about done with the ribbing section and moving on to the increase section. Progress picture below!
-
+  I was much more careful (read: tighter tension) with my ribbing this time, and it looks miles better! I am glad I decided to rip it out previously, although it is much stiffer than before. I am just about done with the ribbing section and moving on to the increase section. Progress picture below! 
   <img src="media/battersea_rib.jpg" style="max-width: 100%" />
+  
+- 4/8/2021: Lifeline placed on/after first purl row after twisted rib. I used scrap sock yarn (I knew keeping those scraps around would be useful eventually!) and wanted to have it in place just in case I increase too much/too little for the neck to shoulder area. In the area between gansey patterns, it usually calls for 1 increase (every 3 rows) but I need to increase up to a larger size because of my smaller gauge. 
 
 
 {% include post-footer.html %}
