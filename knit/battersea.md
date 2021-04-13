@@ -51,5 +51,118 @@ I have been wanting to make a knit wearable for some time now but given that I m
   
 - 4/8/2021: Lifeline placed on/after first purl row after twisted rib. I used scrap sock yarn (I knew keeping those scraps around would be useful eventually!) and wanted to have it in place just in case I increase too much/too little for the neck to shoulder area. In the area between gansey patterns, it usually calls for 1 increase (every 3 rows) but I need to increase up to a larger size because of my smaller gauge. 
 
+- 4/10/2021: Finished the first ball of yarn in the middle of the seed stitch section! I used the [second strategy from this video](https://www.youtube.com/watch?v=I_cHO6R_MBc) to attach a new ball of yarn and will weave in the ends afterwards. 
+
+- 4/13/2021: I ended up placing lifelines in each k, k, p, p, etc. section between the patterns. I also did more increases to get up to the 39" size from the smallest 34" size. I chose this because if you look at the total number of stitches and scale by my gauge / the pattern's gauge, then 39" is supposedly the best size for me. I guess we will see. 
+  Between twisted rib and the first (gansey) pattern section: 
+  <table style="width:100%"> 
+    <caption>Increases between twisted rib and first (gansey) pattern section</caption>
+    <tr>
+      <td>Stitch</td>
+      <td>p</td>
+      <td>p</td>
+      <td>k</td>
+      <td>k</td>
+      <td>p</td>
+      <td>p</td>
+      <td>k</td>
+    </tr>
+    <tr>
+      <td>Pattern increases</td>
+      <td> </td>
+      <td> </td>
+      <td>*</td>
+      <td> </td>
+      <td> </td>
+      <td>*</td>
+      <td> </td>      
+    </tr>
+    <tr>
+      <td>Modified increases</td>
+      <td> </td>
+      <td>*</td>
+      <td> </td>
+      <td>*</td>
+      <td> </td>
+      <td>*</td>
+      <td> </td>      
+    </tr>
+  </table>  
+  
+  Between gansey and seed stitch pattern sections: 
+  <table style="width:100%"> 
+    <caption>Increases between gansey and seed stitch pattern sections</caption>
+    <tr>
+      <td>Stitch</td>
+      <td>p</td>
+      <td>p</td>
+      <td>k</td>
+      <td>k</td>
+      <td>p</td>
+      <td>p</td>
+      <td>k</td>
+    </tr>
+    <tr>
+      <td>Pattern increases</td>
+      <td> </td>
+      <td> </td>
+      <td>*</td>
+      <td> </td>
+      <td> </td>
+      <td>*</td>
+      <td> </td>      
+    </tr>
+    <tr>
+      <td>Modified increases</td>
+      <td> </td>
+      <td>*</td>
+      <td> </td>
+      <td>*</td>
+      <td> </td>
+      <td>*</td>
+      <td> </td>      
+    </tr>
+  </table> 
+  
+  Between seed and parallelogram pattern sections: 
+  <table style="width:100%"> 
+    <caption>Increases between seed stitch and parallelogram pattern sections</caption>
+    <tr>
+      <td>Stitch</td>
+      <td>k</td>
+      <td>p</td>
+      <td>p</td>
+      <td>k</td>
+      <td>k</td>
+      <td>p</td>
+      <td>p</td>
+      <td>k</td>
+    </tr>
+    <tr>
+      <td>Pattern increases</td>
+      <td> </td>
+      <td>*</td>
+      <td> </td>
+      <td> </td>
+      <td>*</td>
+      <td> </td>
+      <td> </td>
+      <td>*</td>
+    </tr>
+    <tr>
+      <td>Modified increases</td>
+      <td> </td>
+      <td>*</td>
+      <td> </td>
+      <td>*</td>
+      <td> </td>
+      <td>*</td>
+      <td> </td>      
+      <td>*</td>
+    </tr>
+  </table>  
+  
+  I have finished the parallelogram section and tried on the tee! It may be a *bit* baggy but it's hard to tell. But regardless, it is long enough (reaches my armpits) so I can separate out the arms and begin knitting the body. 
+
 
 {% include post-footer.html %}
