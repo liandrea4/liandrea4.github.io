@@ -47,11 +47,13 @@ I have been wanting to make a knit wearable for some time now but given that I m
   Given this I am planning on CO 136st (128st last time was a good size for larger needles) and either knitting the 2nd smallest (35.5") or the 3rd smallest (37") size. Hopefully I have enough yarn! 
   
   I was much more careful (read: tighter tension) with my ribbing this time, and it looks miles better! I am glad I decided to rip it out previously, although it is much stiffer than before. I am just about done with the ribbing section and moving on to the increase section. Progress picture below! 
+  
   <img src="media/battersea_rib.jpg" style="max-width: 100%" />
   
 - 4/8/2021: Lifeline placed on/after first purl row after twisted rib. I used scrap sock yarn (I knew keeping those scraps around would be useful eventually!) and wanted to have it in place just in case I increase too much/too little for the neck to shoulder area. In the area between gansey patterns, it usually calls for 1 increase (every 3 rows) but I need to increase up to a larger size because of my smaller gauge. 
 
 - 4/10/2021: Finished the first ball of yarn in the middle of the seed stitch section! I used the [second strategy from this video](https://www.youtube.com/watch?v=I_cHO6R_MBc) to attach a new ball of yarn and will weave in the ends afterwards. Progress picture!
+- 
   <img src="media/battersea_1ball.jpg" style="max-width: 100%" />
 
 
@@ -162,9 +164,11 @@ I have been wanting to make a knit wearable for some time now but given that I m
   </table>  
   
   I have finished the parallelogram section and tried on the tee! It may be a *bit* baggy but it's hard to tell. But regardless, it is long enough (reaches my armpits) so I can separate out the arms and begin knitting the body.
+  
   <img src="media/battersea_topdone.jpg" style="max-width: 100%" />
   
   Finished the 2nd ball of yarn a couple rows after separating out the arms. Backwards cast on 7 st under each arm. Progress picture below. 
+  
   <img src="media/battersea_2ball.jpg" style="max-width: 100%" />
 
 
