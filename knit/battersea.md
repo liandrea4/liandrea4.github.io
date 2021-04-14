@@ -51,10 +51,11 @@ I have been wanting to make a knit wearable for some time now but given that I m
   
 - 4/8/2021: Lifeline placed on/after first purl row after twisted rib. I used scrap sock yarn (I knew keeping those scraps around would be useful eventually!) and wanted to have it in place just in case I increase too much/too little for the neck to shoulder area. In the area between gansey patterns, it usually calls for 1 increase (every 3 rows) but I need to increase up to a larger size because of my smaller gauge. 
 
-- 4/10/2021: Finished the first ball of yarn in the middle of the seed stitch section! I used the [second strategy from this video](https://www.youtube.com/watch?v=I_cHO6R_MBc) to attach a new ball of yarn and will weave in the ends afterwards. 
+- 4/10/2021: Finished the first ball of yarn in the middle of the seed stitch section! I used the [second strategy from this video](https://www.youtube.com/watch?v=I_cHO6R_MBc) to attach a new ball of yarn and will weave in the ends afterwards. Progress picture!
+  <img src="media/battersea_1ball.jpg" style="max-width: 100%" />
+
 
 - 4/13/2021: I ended up placing lifelines in each k, k, p, p, etc. section between the patterns. I also did more increases to get up to the 39" size from the smallest 34" size. I chose this because if you look at the total number of stitches and scale by my gauge / the pattern's gauge, then 39" is supposedly the best size for me. I guess we will see. 
-  Between twisted rib and the first (gansey) pattern section: 
   <table style="width:100%"> 
     <caption>Increases between twisted rib and first (gansey) pattern section</caption>
     <tr>
@@ -89,7 +90,6 @@ I have been wanting to make a knit wearable for some time now but given that I m
     </tr>
   </table>  
   
-  Between gansey and seed stitch pattern sections: 
   <table style="width:100%"> 
     <caption>Increases between gansey and seed stitch pattern sections</caption>
     <tr>
@@ -124,7 +124,6 @@ I have been wanting to make a knit wearable for some time now but given that I m
     </tr>
   </table> 
   
-  Between seed and parallelogram pattern sections: 
   <table style="width:100%"> 
     <caption>Increases between seed stitch and parallelogram pattern sections</caption>
     <tr>
@@ -162,7 +161,11 @@ I have been wanting to make a knit wearable for some time now but given that I m
     </tr>
   </table>  
   
-  I have finished the parallelogram section and tried on the tee! It may be a *bit* baggy but it's hard to tell. But regardless, it is long enough (reaches my armpits) so I can separate out the arms and begin knitting the body. 
+  I have finished the parallelogram section and tried on the tee! It may be a *bit* baggy but it's hard to tell. But regardless, it is long enough (reaches my armpits) so I can separate out the arms and begin knitting the body.
+  <img src="media/battersea_topdone.jpg" style="max-width: 100%" />
+  
+  Finished the 2nd ball of yarn a couple rows after separating out the arms. Backwards cast on 7 st under each arm. Progress picture below. 
+  <img src="media/battersea_2ball.jpg" style="max-width: 100%" />
 
 
 {% include post-footer.html %}
