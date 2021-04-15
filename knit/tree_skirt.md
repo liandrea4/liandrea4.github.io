@@ -112,4 +112,4 @@ Also I feel very very silly, but I ended up not doing ladderback jacquard. Yep, 
 - 3/28/2021: I am finally done!!! I haven't decided if I will cut the steek or not, Joe doesn't think I should. I guess we will see! 
 
 
-{% include post-footer.md %}
+{% include post-footer.html %}
