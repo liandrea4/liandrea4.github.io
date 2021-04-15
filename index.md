@@ -29,6 +29,7 @@ li a {font-weight: 300;}
 
 ## Crochet projects
 
+- <span>Mar-Apr 2021</span> [Toilet paper basket](crochet/toilet_paper_basket.md) 
 - <span>Mar 2021</span> [Bunny coasters](crochet/bunny_coasters.md) 
 - <span>Mar 2021</span> [Coaster basket](crochet/coaster_basket.md) 
 - <span>Sept 2020 - Oct 2020</span> [M pillow](crochet/m_pillow.md) 
