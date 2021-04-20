@@ -33,6 +33,9 @@ The most basic type of stitch
 #### Lifeline
 A line of scrap yarn which is threaded through every stitch in a particular row. This is placed so that if a project needs to be frogged, you can very easily and safely slide the work off the needles and rip to your heart's content until you reach the lifeline. The lifeline will catch all the stitches and will guarantee that you won't drop any stitches will frogging. 
 
+#### Magic loop 
+A technique to use a longer circular needle e.g. 40" to make a smaller project circumference e.g. 9" so you don't need the exact size cable/circular needle for every single project
+
 #### Purl stitch 
 The inverse of a knit stitch such that if you knit a knit stitch row flat, flip the work, and then knit a purl stitch row, when looking from the [RS](#right-side-rs), the two completed rows will look the same.
 
@@ -55,11 +58,17 @@ The reverse side of the work
 
 ## Crochet
 
+#### Chain stitch
+Very similar to casting on in knitting, this is the start of most crochet pieces which makes up the base off of which you build! 
+
 #### Double crochet (DC) 
 Another very common type of stitch in crochet, which is approximately 2x as tall as a single crochet. Note that this is called treble crochet in British terminology. 
 
 #### Half double crochet (HDC) 
 A cross between a single and a double crochet. (Note: I won't be teaching/describing *how* to make each of the stitches in the glossary. That's what YouTube is for!). This is approximately the height between a [SC](#single-crochet-sc) and a [DC](#double-crochet-dc) and also has an interesting property in that there are 3 top loops created in this stitch (instead of the 2 usually). Frequently patterns will call for a stitch to be made in the 3rd loop or back loop of the HDC stitch (frequently abbreviated tbl, through back loop).
+
+#### Magic circle 
+A technique in which to make a seamless start of a circular piece. See [this video](https://www.youtube.com/watch?v=J7GHTfXaz2E)
 
 #### Single crochet (SC)
 The simplest stitch in crochet, similar to a knit stitch in knitting. Note that this is called double crochet in British terminology. 
