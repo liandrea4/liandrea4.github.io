@@ -171,7 +171,7 @@ I have been wanting to make a knit wearable for some time now but given that I m
   
   <img src="media/battersea_2ball.jpg" style="max-width: 100%" />
   
-- 4/19/2021: Finished the 3rd ball of yarn! I finished all the patterns at the top and am working on the sea of stockinette. I have about 2.5" of stockinette so far. My gauge (non-blocked and washed of course) in the stockinette area so far is 23st by ~34 rows (17 rows in 2"). So it's actually a fair bit tighter than the original gauge swatch I did :/ But hopefully it shouldn't be a big deal, perhaps blocking will help it. Also I tried it on after finishing the last section of pattern, and it fits perfect so far! Progress picture below
+- 4/19/2021: Finished the 3rd ball of yarn! I finished all the patterns at the top and am working on the sea of stockinette. I have about 2.5" of stockinette so far. My gauge (non-blocked and non-washed of course) in the stockinette area so far is 23st by ~34 rows (17 rows in 2"). So it's actually a fair bit tighter than the original gauge swatch I did :/ But hopefully it shouldn't be a big deal, perhaps blocking will help it. Also I tried it on after finishing the last section of pattern, and it fits perfect so far! Progress picture below
 
   <img src="media/battersea_3ball.jpg" style="max-width: 100%" />
 
