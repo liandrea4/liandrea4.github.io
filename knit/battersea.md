@@ -53,7 +53,7 @@ I have been wanting to make a knit wearable for some time now but given that I m
 - 4/8/2021: Lifeline placed on/after first purl row after twisted rib. I used scrap sock yarn (I knew keeping those scraps around would be useful eventually!) and wanted to have it in place just in case I increase too much/too little for the neck to shoulder area. In the area between gansey patterns, it usually calls for 1 increase (every 3 rows) but I need to increase up to a larger size because of my smaller gauge. 
 
 - 4/10/2021: Finished the first ball of yarn in the middle of the seed stitch section! I used the [second strategy from this video](https://www.youtube.com/watch?v=I_cHO6R_MBc) to attach a new ball of yarn and will weave in the ends afterwards. Progress picture!
-- 
+
   <img src="media/battersea_1ball.jpg" style="max-width: 100%" />
 
 
@@ -170,6 +170,10 @@ I have been wanting to make a knit wearable for some time now but given that I m
   Finished the 2nd ball of yarn a couple rows after separating out the arms. Backwards cast on 7 st under each arm. Progress picture below. 
   
   <img src="media/battersea_2ball.jpg" style="max-width: 100%" />
+  
+- Finished the 3rd ball of yarn! I finished all the patterns at the top and am working on the sea of stockinette. I have about 2.5" of stockinette so far. My gauge (non-blocked and washed of course) in the stockinette area so far is 23st by ~34 rows (17 rows in 2"). So it's actually a fair bit tighter than the original gauge swatch I did :/ But hopefully it shouldn't be a big deal, perhaps blocking will help it. Also I tried it on after finishing the last section of pattern, and it fits perfect so far! Progress picture below
+
+  <img src="media/battersea_3ball.jpg" style="max-width: 100%" />
 
 
 {% include post-footer.html %}
