@@ -185,8 +185,8 @@ I have been wanting to make a knit wearable for some time now but given that I m
 
 - 4/27/2021: For short rows, I didn't want such a steep and deep dip on the lower back. So instead I did wraps and turns 3st from the end, and then every 4st thereafter (3st from end, 7st, 11st, 15st, and 19st). Then I picked up the stitches in one knit round around (following [this video](https://www.youtube.com/watch?v=Judt5ELRzRM) for how to do that in the round) and then knit one row even. My wrapped stitches are pretty messy, especially for the ones that were made on the purl side, which is a shame :( 
 
-  <img src="media/battersea_shortrows1.jpg" style="max-width: 47%" />  
-  <img src="media/battersea_shortrows2.jpg" style="max-width: 47%" />  
+  <img src="media/battersea_shortrows1.jpg" style="max-width: 44%" />  
+  <img src="media/battersea_shortrows2.jpg" style="max-width: 44%" />  
 
   But anyways, on to ribbing! Switching back down to a size 4 needle for the 1x1 twisted rib. 
 
