@@ -189,5 +189,6 @@ I have been wanting to make a knit wearable for some time now but given that I m
 
   But anyways, on to ribbing! Switching back down to a size 4 needle for the 1x1 twisted rib. 
 
+- 4/29/2021: Well I wanted to make sure that I had enough for the arms (even though I technically still have a whole other ball of yarn left, but I am going to try to return it within the return window I think), so I decided to do ribbing on the arms before binding off the bottom of the body. I followed [this video](https://www.youtube.com/watch?v=8K-IsMdTHK0) for how to pick up underarm stitches and ensure that there aren't any holes. I did about 1" 1x1 twisted ribbing at the end of the arm and then bound off in twisted rib following [this video](https://www.youtube.com/watch?v=PYNl2xsz6iI).  
 
 {% include post-footer.html %}
