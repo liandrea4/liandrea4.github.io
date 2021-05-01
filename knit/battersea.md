@@ -189,6 +189,13 @@ I have been wanting to make a knit wearable for some time now but given that I m
 
   But anyways, on to ribbing! Switching back down to a size 4 needle for the 1x1 twisted rib. 
 
-- 4/29/2021: Well I wanted to make sure that I had enough for the arms (even though I technically still have a whole other ball of yarn left, but I am going to try to return it within the return window I think), so I decided to do ribbing on the arms before binding off the bottom of the body. I followed [this video](https://www.youtube.com/watch?v=8K-IsMdTHK0) for how to pick up underarm stitches and ensure that there aren't any holes. I did about 1" 1x1 twisted ribbing at the end of the arm and then bound off in twisted rib following [this video](https://www.youtube.com/watch?v=PYNl2xsz6iI).  
+- 4/29/2021: Well I wanted to make sure that I had enough for the arms (even though I technically still have a whole other ball of yarn left, but I am going to try to return it within the return window I think), so I decided to do ribbing on the arms before binding off the bottom of the body. I followed [this video](https://www.youtube.com/watch?v=8K-IsMdTHK0) for how to pick up underarm stitches and ensure that there aren't any holes. I did about 1" 1x1 twisted ribbing at the end of the arm and then bound off in twisted rib following [this video](https://www.youtube.com/watch?v=PYNl2xsz6iI). In another video, it recommended to leave a tail of about (4x + a little) the length of the part that needs to be bound off. I did 4x and had a lot left over so (3x + a little) probably would've been sufficient. 
+
+- 4/30/2021: It is done! I did the bottom twisted rib for longer than 1" because I had plenty of yarn left. If I had to go back and do it again, I would've done the stockinette portion for longer before starting twisted rib (I should've finished the arms first so I didn't have to worry about saving enough yarn for the arms at the end). It looks really nice! But I have about 1.25 balls of yarn left :( I don't know what to do with it and the return window closes in 3 days and it's too far away from where we are right now. Oh well! 
+
+  The short rows on the back worked perfectly! I didn't want it to be too obvious but I did want the benefits of short rows and it is nice and subtle but gets the job done. You can really only tell when the shirt is laid flat to compare the lengths of the front and back. 
+  
+  <img src="media/battersea_done.jpg" style="max-width: 100%" />
+
 
 {% include post-footer.html %}
