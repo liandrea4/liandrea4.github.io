@@ -10,7 +10,7 @@ comments: 7
 <img src="media/battersea.jpg" style="max-width: 100%" />
 
 ## Details
-- Yarn: King Cole Finesse Cotton Silk DK (77% cotton, 23% silk), x skeins
+- Yarn: King Cole Finesse Cotton Silk DK (77% cotton, 23% silk), 5 skeins
 - Needle size: 4 and 5
 - Pattern: [Battersea shirt](https://incorrigiblecraftster.blogspot.com/2015/04/battersea-free-pattern.html)
 
