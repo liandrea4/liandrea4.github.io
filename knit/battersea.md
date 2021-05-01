@@ -5,7 +5,7 @@ comments: 7
 
 {% include post-header.md %}
 
-(Apr 2021 - ongoing) My first knit wearable! 
+(Apr 2021) My first knit wearable! 
 
 <img src="media/battersea.jpg" style="max-width: 100%" />
 
