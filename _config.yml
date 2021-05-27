@@ -5,6 +5,9 @@ relative_links:
   enabled: true
   collections: true
 
+kramdown:
+  parse_block_html: true
+
 title: Knittlations
 description: I the coolest
 favicon: favicon.ico
