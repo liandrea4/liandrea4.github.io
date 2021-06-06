@@ -46,4 +46,4 @@ li a {font-weight: 300;}
 
 ## Misc projects
 
-- <span> Mother's Day embroidery</span> [Mother's Day embroidery](misc/mothers_day_embroidery.md)
+- <span>May 2021</span> [Mother's Day embroidery](misc/mothers_day_embroidery.md)
