@@ -44,6 +44,6 @@ li a {font-weight: 300;}
 - <span>May 2019</span> [Soccer ball pillow](crochet/soccer_ball_pillow.md) 
 - <span>Apr 2019 - May 2019</span> [Mother's Day apron](crochet/mothers_day_apron.md) 
 
-## Misc projects
+## Miscellaneous projects
 
 - <span>May 2021</span> [Mother's Day embroidery](misc/mothers_day_embroidery.md)
