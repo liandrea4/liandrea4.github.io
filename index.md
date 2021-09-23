@@ -16,6 +16,7 @@ li a {font-weight: 300;}
 
 ## Knit projects
 
+- <span>Jul 2021 - ongoing</span> [Hockey shooting targets](knit/hockey_targets.md) 
 - <span>Apr 2021</span> [Battersea shirt](knit/battersea.md) 
 - <span>Jan 2021 - Mar 2021</span> [Christmas tree skirt](knit/tree_skirt.md) 
 - <span>Feb 2021 - Feb 2021</span> [Speckled space socks](knit/speckled_space_socks.md) 
