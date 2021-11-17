@@ -110,13 +110,14 @@ Also I feel very very silly, but I ended up not doing ladderback jacquard. Yep, 
   <img src="media/tree_skirt2.jpg" style="max-width: 80%" />
 
 - 3/28/2021: I am finally done!!! I haven't decided if I will cut the steek or not, Joe doesn't think I should. I guess we will see! 
+
   <img src="media/tree_skirt_done.jpg" style="max-width: 80%" />
 
 
 - 11/17/2021: So we bought a Christmas tree for our new house! But because of the way we furnished the house, we didn't have a great corner to put our Christmas tree in. The options were in the dining room but then it would never be seen unless we were eating, or smack dab in the middle of the kitchen - so we went with the kitchen! But it is a smaller corner than I was originally anticipating so without steeking the Christmas tree skirt, it was WAY too big in the corner. So I had to steek (eek!). \
-I prepared it just as I had planned above (and thank goodness for those notes otherwise I would've totally forgotten how to do it!). I used white yarn with the same size needle for the facings because I didn't think I would have enough red for both but it would've been beter with red. Anyways it was scary but it all worked out and at least so far, the steek has held! 
-  Before (after crochet reinforcement and knit facings): <img src="media/tree_skirt_prepped.jpg" style="max-width: 80%" />
-  After: <img src="media/tree_skirt_after.jpg" style="max-width: 80%" />
+I prepared it just as I had planned above (and thank goodness for those notes otherwise I would've totally forgotten how to do it!). I used white yarn with the same size needle for the facings because I didn't think I would have enough red for both but it would've been beter with red. Anyways it was scary but it all worked out and at least so far, the steek has held! \
+  Before (after crochet reinforcement and knit facings): <img src="media/tree_skirt_prepped.jpg" style="max-width: 80%" /> \
+  After: <img src="media/tree_skirt_after.jpg" style="max-width: 80%" /> \
 And now it looks loads better under the tree! :)
 
 
