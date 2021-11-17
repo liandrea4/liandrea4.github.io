@@ -7,7 +7,7 @@ comments: 3
 
 (Jan 2021 - Mar 2021, Nov 2021) Fair isle Christmas tree skirt. 
 
-<img src="media/tree_skirt_undertree1.jpg" style="max-width: 45%" /> <img src="media/tree_skirt_undertree2.jpg" style="max-width: 45%" />
+<img src="media/tree_skirt_undertree1.jpg" style="max-width: 48%" /> <img src="media/tree_skirt_undertree2.jpg" style="max-width: 48%" />
 
 ## Details
 - Yarn: Caron One Pound in Scarlet; Red Heart Super Saver in White (100% acrylic) 
