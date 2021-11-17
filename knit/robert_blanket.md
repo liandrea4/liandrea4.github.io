@@ -9,7 +9,7 @@ title: Robert blanket
 <img src="media/robert_blanket.jpg" style="max-width: 100%" />
 
 ## Details
-- Yarn: Bernat 
+- Yarn: Bernat Mix Baby, Yellow
 - Needle size: US 10.5 (6.5mm) or US 11 (8mm) I think? 
 - [Pattern](https://www.ravelry.com/patterns/library/chevron-baby-blanket-19)
 
