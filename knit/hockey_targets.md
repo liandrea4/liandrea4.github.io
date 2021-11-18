@@ -10,7 +10,7 @@ title: Hockey shooting targets
 
 ## Details
 - Yarn: Assorted worsted weight
-- Needle size: US 9 (5.5mm)
+- Needle size: US 10 (6mm)
 - 
 
 ## Notes
