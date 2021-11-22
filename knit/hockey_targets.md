@@ -4,7 +4,7 @@ title: Hockey shooting targets
 
 {% include post-header.md %}
 
-(Jul 2021 - ongoing) Hockey shooting targets
+(Jul 2021 - Nov 2021) Hockey shooting targets
 
 <img src="media/targets.jpg" style="max-width: 100%" />
 
