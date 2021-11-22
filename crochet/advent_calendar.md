@@ -19,7 +19,7 @@ Not many modifications to this pattern (although I will say that at first I did 
 
 This project was really quick at first! The mini stockings are really fast to make and it was super satisfying to finish them so quickly. The problem is that in the middle of this project, we went to Hawaii because of COVID and I didn't bring it back with me. And then when we came back to California to pack up, I finished the rest of the mini stockings super fast! But I needed buttons for the sc chain and I didn't want to buy them right before the move so I waited til after the move. Well after the move, we never even unpacked because our life is so up in the air! So the mini stockings are still packed away. I bought buttons though! But I need to figure out how to attach them, and anyways it wasn't urgent to finish by Christmas 2020 anyways because we are just hopping between houses. So I will probably just unpack the mini stockings whenever we settle down (***if*** we ever settle down) and then finish up the sc chain then. 
 
-#### Nov 2021 UPDATE
+### Nov 2021 Update
 
 Well we finally settled down this year and given that we started decorating for Christmas, it was urgent that I finally finish this advent calendar! I made a 2 stitch i-cord for the garland holder (see [video](https://www.youtube.com/watch?v=vhr-Ovs5MOc)) and then attached the buttons to the rope to hang each of the stockings. 
 
