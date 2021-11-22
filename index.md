@@ -16,7 +16,9 @@ li a {font-weight: 300;}
 
 ## Knit projects
 
-- <span>Jul 2021 - ongoing</span> [Hockey shooting targets](knit/hockey_targets.md) 
+- <span>Nov 2021</span> [Advent calendar bird](knit/bird.md)
+- <span>Sept 2021, ongoing</span> [Double knit bird hot pad](knit/bird_hot_pad.md) 
+- <span>Jul 2021 - Nov 2021</span> [Hockey shooting targets](knit/hockey_targets.md) 
 - <span>Mar 2021 - May 2021</span> [Robert's blanket](knit/robert_blanket.md) 
 - <span>Apr 2021</span> [Battersea shirt](knit/battersea.md) 
 - <span>Jan 2021 - Mar 2021</span> [Christmas tree skirt](knit/tree_skirt.md) 
