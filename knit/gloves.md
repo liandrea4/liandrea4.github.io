@@ -7,7 +7,7 @@ comments: 8
 
 (Dec 2021 - ongoing) Gloves to keep my hands warm!
 
-<img src="media/battersea.jpg" style="max-width: 100%" />
+<img src="media/gloves.jpg" style="max-width: 100%" />
 
 ## Details
 - Yarn: Patons Kroy Sock Yarn (Cadet Colors)
