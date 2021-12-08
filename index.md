@@ -16,6 +16,7 @@ li a {font-weight: 300;}
 
 ## Knit projects
 
+- <span>Dec 2021 - ongoing</span> [Gloves](knit/gloves.md)
 - <span>Nov 2021</span> [Advent calendar bird](knit/bird.md)
 - <span>Sept 2021, ongoing</span> [Double knit bird hot pad](knit/bird_hot_pad.md) 
 - <span>Jul 2021 - Nov 2021</span> [Hockey shooting targets](knit/hockey_targets.md) 
