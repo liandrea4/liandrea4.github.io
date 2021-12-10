@@ -25,6 +25,8 @@ It's been getting pretty cold around here and I don't have any gloves! I have a 
     - Pattern calls for: 6.75 stitches per inch
     - My mini gauge swatch: 7 stitches per inch
   So I essentially got gauge and I have little wrists anyways so I think I will do the small size. Well I guess the frogging was for nothing! I was going to make the small size regardless! 
+  
+- 12/9/2021: I have made good progress! I finished the cuff using the tubular cast on and in twisted rib and started on the palm. I ended up doing 25 rows for the cuff which is a little over 2.25" instead of the 2.75" that the pattern calls for because I felt like a 2.75" cuff would be too long. I think the twisted rib might throw some things off, but technically the gauge swatch calls for 10 rows per inch vs I have about 11 rows per inch so I will have to keep that in mind and adjust as I go! 
 
 
 {% include post-footer.html %}
